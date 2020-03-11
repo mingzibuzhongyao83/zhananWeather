@@ -4,6 +4,7 @@ window.onload = function() {
 
 	var b = 2;
 
+	var b =20;
 	
 	console.log(a + b);
 	
